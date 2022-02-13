@@ -10,4 +10,4 @@
  * ******************************************export default {**************************************
  *                 
  */
-(window.atDefyma_THIRTYSIXBEARDOODLES=window.atDefyma_THIRTYSIXBEARDOODLES||[]).push([[2],{252:function(p,n,o){p.exports=o.p+"img/1.7234d15.png"}}]);
+(window.atDefyma_THIRTYSIXBEARDOODLES=window.atDefyma_THIRTYSIXBEARDOODLES||[]).push([[4],{258:function(n,p,e){n.exports=e.p+"img/nonfungiblereviews.net.14ed473.svg"},259:function(n,p,e){n.exports=e.p+"img/nextdrop.is.ccc1c0c.png"}}]);
