@@ -10,4 +10,4 @@
  * ******************************************export default {**************************************
  *                 
  */
-(window.atDefyma_THIRTYSIXBEARDOODLES=window.atDefyma_THIRTYSIXBEARDOODLES||[]).push([[2],{253:function(p,n,o){p.exports=o.p+"img/1.7234d15.png"}}]);
+(window.atDefyma_THIRTYSIXBEARDOODLES=window.atDefyma_THIRTYSIXBEARDOODLES||[]).push([[4],{259:function(n,p,o){n.exports=o.p+"img/nonfungiblereviews.net.14ed473.svg"},260:function(n,p,o){n.exports=o.p+"img/nextdrop.is.ccc1c0c.png"},261:function(n,p,o){n.exports=o.p+"img/upcomingnft.net.a6b6c3d.png"},262:function(n,p,o){n.exports=o.p+"img/nftfigure.org.4ecf8b9.png"}}]);
