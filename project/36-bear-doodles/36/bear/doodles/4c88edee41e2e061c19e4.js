@@ -10,4 +10,4 @@
  * ******************************************export default {**************************************
  *                 
  */
-(window.atDefyma_THIRTYSIXBEARDOODLES=window.atDefyma_THIRTYSIXBEARDOODLES||[]).push([[3],{254:function(p,n,o){p.exports=o.p+"img/all-bs-s1.fee5c41.png"}}]);
+(window.atDefyma_THIRTYSIXBEARDOODLES=window.atDefyma_THIRTYSIXBEARDOODLES||[]).push([[4],{259:function(n,p,i){n.exports=i.p+"img/nftcalendar.io.c5ef49e.png"},260:function(n,p,i){n.exports=i.p+"img/nonfungiblereviews.net.14ed473.svg"},261:function(n,p,i){n.exports=i.p+"img/nextdrop.is.ccc1c0c.png"},262:function(n,p,i){n.exports=i.p+"img/upcomingnft.net.a6b6c3d.png"},263:function(n,p,i){n.exports=i.p+"img/nftshill.io.56cc22b.svg"}}]);
